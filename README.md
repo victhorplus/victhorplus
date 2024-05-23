@@ -18,7 +18,7 @@ Currently, I'm focused on projects involving the integration between front-end a
 
 ### Contact
 
-Feel free to get in touch with me via email at email at [victhor-hugo-11@hotmail.com] or [LinkedIn](https://www.linkedin.com/in/victhor-hugo){:target="_blank" rel="noopener"}
+Feel free to get in touch with me via email at email at [victhor-hugo-11@hotmail.com] or [LinkedIn](https://www.linkedin.com/in/victhor-hugo)
 
 <!--
 **victhorplus/victhorplus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
