@@ -4,7 +4,7 @@
 I'm a web developer with four years of experience, focusing on front-end development using Angular and back-end with Node.js. I'm constantly striving to enhance my skills and learn new technologies to deliver innovative and efficient solutions.
 
 - I love astronomy 🔭
-- I like hiking and camping 🏕️
+- I love camping 🏕️
 - Learning to sail ⛵
 
 ### Experience and Expertise
